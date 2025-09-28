@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Lamoya  
 
-💡 Data Science student at the University of Toronto transitioning from biopharma into data & tech.  
+💡 Data Science certificate student at the University of Toronto Data Science Institute transitioning from biopharma into data & tech.  
 🔍 Passionate about problem-solving, data visualization, and building solutions that bridge science and analytics.  
 
 ---
