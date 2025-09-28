@@ -37,4 +37,4 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lamoya-waldman)  
-- [Email](mailto:lamoya.waldman@outlook.com)  
+- [Email](mailto:lamoya_waldman@outlook.com)  
